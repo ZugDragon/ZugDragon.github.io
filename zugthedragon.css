@@ -1,0 +1,52 @@
+body {
+    background-image: url("background.gif");
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    position:fixed;
+    float: center;
+
+}
+img {
+    height: auto;
+    text-align: center;
+    float: center;
+}
+header {
+    text-align: center;
+    float: center;
+}
+sidebar {
+    float: left;
+    min-width:110px;
+    width: 10%;
+    max-width: 150px;
+    padding: 1%;
+    background:
+}
+section {
+    padding: 90px;
+    text-align: center;
+}
+happy_derg {
+    padding: 50px;
+}
+sidebar_links {
+    padding: 50px;
+    text-align: center;
+}
+
+.homebox {
+    text-align: center;
+    width: 50%;
+    float: center;
+    outline-width: 5px;
+    outline-style: outset;
+    outline-color: black;
+    background: darkblue;
+    opacity: 90%;
+    border-radius: 10px;
+
+}
+
+
