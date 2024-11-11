@@ -49,4 +49,16 @@ sidebar_links {
 
 }
 
+.aboutbox {
+    text-align: center;
+    width: 80%;
+    float: center;
+    outline-width: 5px;
+    outline-style: outset;
+    outline-color: black;
+    background: darkblue;
+    opacity: 90%;
+    border-radius: 10px;
+
+}
 
